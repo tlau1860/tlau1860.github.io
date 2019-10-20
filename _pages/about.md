@@ -16,4 +16,4 @@ To do this, I have employed a number of methods, including, but not limited to, 
 
 Broadly speaking, I am interested in (i) how social group information affects our judgments and choice behavior towards others and (ii) how we understand who is and is not a member of our social groups in the first place (which can in turn affect our behavior towards others). 
 
-You can find more detailed descriptions on my Projects page. Article pdfs and links to relevant OSF/Git repos can be found on my [Publications](/publications) page. Do get in touch if you have any questions.
+You can find more detailed descriptions on my [Projects](/projects) page. Article pdfs and links to relevant OSF/Git repos can be found on my [Publications](/publications) page. Do get in touch if you have any questions.
