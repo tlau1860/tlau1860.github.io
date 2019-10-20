@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<sub><i>Some projects and short descriptions can be found below. For PDF copies or OSF/GitHub repos, see [Publications](/publications)</i></sub>.
+<sub><i>Some projects and short descriptions can be found below. For PDF copies or OSF/GitHub repos, see [Publications](/publications).</i></sub>
 
 
 Inferring and Categorizing Across Social Groups
