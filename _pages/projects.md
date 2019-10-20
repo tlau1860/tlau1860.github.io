@@ -13,7 +13,7 @@ redirect_from:
 <i>Some projects and short descriptions can be found below. For PDF copies and OSF repos, see [Publications](https://tlau1860.github.io/publications)</i>.
 
 
-##Inferring and Categorizing Across Social Groups##
+##Inferring and Categorizing Across Social Groups
 
 Humans form social coalitions in every society on earth, yet we know very little about how social group boundaries are learned and actively categorized. Previous research has examined these questions using explicitly labelled, static, single groups (e.g., team membership, race, etc.) and thus implying that group memberships are inferred via dyadic similarity to the agent. However, in one study using orthogonal group memberships, we find that active in-group categorization may instead rely on goal-oriented, domain-general networks in the brain rather than areas related to self-referential processes. 
 
