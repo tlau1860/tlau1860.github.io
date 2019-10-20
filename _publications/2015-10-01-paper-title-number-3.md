@@ -2,9 +2,9 @@
 title: "The value of victory: social origins of the winner's curse in common value auctions"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This is about somethingk.'
+excerpt: ''
 date: 2008-08-01
-venue: 'Judgment and Decision Making'
+venue: ''
 paperurl: 'http://tlau1860.github.io/files/the_value_of_victory.pdf'
 citation: 'Van Den Bos, W., Li, J., Lau, T., Maskin, E., Cohen, J. D., Montague, P. R., & McClure, S. M. (2008). <i>The value of victory: social origins of the winner&#39s curse in common value auctions. Judgment and Decision Making, 3</i>(7), 483.'
 ---
