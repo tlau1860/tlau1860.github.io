@@ -98,7 +98,7 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
 
-    md += "\n<u>Recommended citation: </u>" + item.citation
+    md += "\n<i>Recommended citation: </i>" + item.citation
 
     md_filename = os.path.basename(md_filename)
 
