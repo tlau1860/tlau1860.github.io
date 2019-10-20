@@ -1,7 +1,7 @@
 ---
 title: "Overcorrection for Social-Categorization Information Moderates Impact Bias in Affective Forecasting"
 collection: publications
-permalink: /publications/affectiveForecasting
+permalink: /publications/2016-affectiveForecasting.md
 excerpt: 'Thblarghumber 1. The number 2 is left for future work.'
 date: 
 venue: ''

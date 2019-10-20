@@ -1,7 +1,7 @@
 ---
 title: "The value of victory: social origins of the winner's curse in common value auctions"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2008-winnerscurse.md
 excerpt: ''
 date: 
 venue: ''
