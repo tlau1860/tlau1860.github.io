@@ -6,7 +6,7 @@ excerpt: 'This is about somethingk.'
 date: 2008-08-01
 venue: 'Judgment and Decision Making'
 paperurl: 'http://tlau1860.github.io/files/the_value_of_victory.pdf.pdf'
-citation: 'Van Den Bos, W., Li, J., Lau, T., Maskin, E., Cohen, J. D., Montague, P. R., & McClure, S. M. (2008). &quot;The value of victory: social origins of the winner's curse in common value auctions.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Van Den Bos, W., Li, J., Lau, T., Maskin, E., Cohen, J. D., Montague, P. R., & McClure, S. M. (2008). &quot;Paper Title Number 3.&quot; <i>Judgment and Decision Making</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
