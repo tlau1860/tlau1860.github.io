@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-
-Some projects and short descriptions can be found below.
-See here for a list of publications and links to respective PDF copies and OSF repos.
+<i>Some projects and short descriptions can be found below. For PDF copies and OSF repos, see [Publications](https://tlau1860.github.io/publications)</i>.
 
 
 Inferring and Categorizing Across Social Groups
@@ -23,45 +21,6 @@ In the absence of labels, how do we accumulate information to infer in- and out-
 
 
 
-Work experience
+Social Categorization Information Biases Affective Forecasts
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+One part of interacting with others is being able to predict and anticipate their future emotional states—that is, make affective forecasts for them. For example, the way in which people classify interrogation methods as acceptable or as torture depends on their capacity to imagine the pain induced by such techniques. Typically, providing forecasters with more amounts of information can help them generate more accurate forecasts. Instead, we find that providing forecasters with targets' group membership information causes them to make less accurate forecasts compared to when they have no such access to this information because they adjust in the wrong direction to account for this additional information.
