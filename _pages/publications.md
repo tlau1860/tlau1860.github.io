@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+<i>PDF copies and links to OSF and GitHub repos for data and task scripts can be found in each individual page.</i> 
+
   <ol reversed>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
