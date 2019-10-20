@@ -9,6 +9,8 @@ redirect_from:
   - "/projects.html"
 ---
 
+{% include base_path %}
+
 Does this show up? This is a page not in the menu. You can use markdown in this page.
 
 Heading 1
