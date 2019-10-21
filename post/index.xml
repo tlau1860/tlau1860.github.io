@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Tatiana Lau</title>
-    <link>https://tlau1860.github.io/post/</link>
-      <atom:link href="https://tlau1860.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tatianalau.com/post/</link>
+      <atom:link href="https://www.tatianalau.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Tatiana Lau</copyright>
     <image>
-      <url>https://tlau1860.github.io/img/icon-192.png</url>
+      <url>https://www.tatianalau.com/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://tlau1860.github.io/post/</link>
+      <link>https://www.tatianalau.com/post/</link>
     </image>
     
   </channel>
