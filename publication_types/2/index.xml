@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Tatiana Lau</title>
+    <link>https://tlau1860.github.io/publication_types/2/</link>
+      <atom:link href="https://tlau1860.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tatiana Lau 2019</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlau1860.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://tlau1860.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Discovering Social Groups via Latent Structure Learning</title>
+      <link>https://tlau1860.github.io/publication/2018-1/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlau1860.github.io/publication/2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI Repetition Suppression During Generalized Social Categorization</title>
+      <link>https://tlau1860.github.io/publication/2017-2/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlau1860.github.io/publication/2017-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding &#34;Us&#34; and &#34;Them&#34;: Neural Representations of Generalized Group Concepts</title>
+      <link>https://tlau1860.github.io/publication/2017-1/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlau1860.github.io/publication/2017-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcorrection for Social-Categorization Information Moderates Impact Bias in Affective Forecasting</title>
+      <link>https://tlau1860.github.io/publication/2016-1/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlau1860.github.io/publication/2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Value of Victory: Social origins of the winner&#39;s curse in common value auctions</title>
+      <link>https://tlau1860.github.io/publication/victoryvalue/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://tlau1860.github.io/publication/victoryvalue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

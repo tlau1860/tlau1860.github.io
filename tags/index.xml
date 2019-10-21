@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Tatiana Lau</title>
+    <link>https://tlau1860.github.io/tags/</link>
+      <atom:link href="https://tlau1860.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tatiana Lau 2019</copyright><lastBuildDate>Sun, 20 Oct 2019 23:43:41 +0100</lastBuildDate>
+    <image>
+      <url>https://tlau1860.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://tlau1860.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>grouprep</title>
+      <link>https://tlau1860.github.io/tags/grouprep/</link>
+      <pubDate>Sun, 20 Oct 2019 23:43:41 +0100</pubDate>
+      <guid>https://tlau1860.github.io/tags/grouprep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forecasting</title>
+      <link>https://tlau1860.github.io/tags/forecasting/</link>
+      <pubDate>Sun, 20 Oct 2019 23:16:33 +0100</pubDate>
+      <guid>https://tlau1860.github.io/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

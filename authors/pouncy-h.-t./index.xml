@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pouncy H. T. | Tatiana Lau</title>
+    <link>https://tlau1860.github.io/authors/pouncy-h.-t./</link>
+      <atom:link href="https://tlau1860.github.io/authors/pouncy-h.-t./index.xml" rel="self" type="application/rss+xml" />
+    <description>Pouncy H. T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tatiana Lau 2019</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlau1860.github.io/img/icon-192.png</url>
+      <title>Pouncy H. T.</title>
+      <link>https://tlau1860.github.io/authors/pouncy-h.-t./</link>
+    </image>
+    
+    <item>
+      <title>Discovering Social Groups via Latent Structure Learning</title>
+      <link>https://tlau1860.github.io/publication/2018-1/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlau1860.github.io/publication/2018-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gershman S. J. | Tatiana Lau</title>
+    <link>https://tlau1860.github.io/authors/gershman-s.-j./</link>
+      <atom:link href="https://tlau1860.github.io/authors/gershman-s.-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Gershman S. J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tatiana Lau 2019</copyright><lastBuildDate>Sun, 20 Oct 2019 20:19:38 +0100</lastBuildDate>
+    <image>
+      <url>https://tlau1860.github.io/img/icon-192.png</url>
+      <title>Gershman S. J.</title>
+      <link>https://tlau1860.github.io/authors/gershman-s.-j./</link>
+    </image>
+    
+    <item>
+      <title>Social Structure Learning in Anterior Insula</title>
+      <link>https://tlau1860.github.io/publication/2019-1/</link>
+      <pubDate>Sun, 20 Oct 2019 20:19:38 +0100</pubDate>
+      <guid>https://tlau1860.github.io/publication/2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Social Groups via Latent Structure Learning</title>
+      <link>https://tlau1860.github.io/publication/2018-1/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlau1860.github.io/publication/2018-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
