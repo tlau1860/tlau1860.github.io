@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>https://www.tatianalau.com/authors/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tatianalau.com/tags/grouprep/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/mina-cikara/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,6 +29,11 @@
   
   <url>
     <loc>https://www.tatianalau.com/publication/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/samuel-j.-gershman/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,6 +49,11 @@
   
   <url>
     <loc>https://www.tatianalau.com/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/admin/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://www.tatianalau.com/authors/h.-thomas-pouncy/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tatianalau.com/publication/2017-2/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -73,8 +98,48 @@
   </url>
   
   <url>
+    <loc>https://www.tatianalau.com/authors/jay-j.-van-bavel/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/zach-a.-ingbretsen/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/carey-m.-morewedge/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tatianalau.com/publication/2016-1/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/eric-maskin/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/jian-li/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/jonathan-d.-cohen/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/p.-read-montague/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tatianalau.com/authors/samuel-m.-mcclure/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +148,8 @@
   </url>
   
   <url>
-    <loc>https://www.tatianalau.com/authors/admin/</loc>
+    <loc>https://www.tatianalau.com/authors/wouter-van-den-bos/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -91,51 +157,7 @@
   </url>
   
   <url>
-    <loc>https://www.tatianalau.com/authors/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.tatianalau.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/cikara-m./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/cohen-j.-d./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/gershman-s.-j./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/ingbretsen-z.-a./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/lau-t./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/li-j./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/maskin-e./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/mcclure-s.-m./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/montague-p.-r./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/morewedge-c.-m./</loc>
   </url>
   
   <url>
@@ -143,19 +165,7 @@
   </url>
   
   <url>
-    <loc>https://www.tatianalau.com/authors/pouncy-h.-t./</loc>
-  </url>
-  
-  <url>
     <loc>https://www.tatianalau.com/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/van-bavel-j.-j./</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.tatianalau.com/authors/van-den-bos-w./</loc>
   </url>
   
 </urlset>
