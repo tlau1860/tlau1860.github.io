@@ -769,7 +769,12 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>How do we learn social group boundaries and categorize others into &quot;us&quot; and &quot;them&quot;? Previous research relied on explicitly labeled, static groups (e.g., team membership, race, gender, etc.) and suggested that we infer others' group membership via dyadic similarity—specific, static, salient features we share directly with others. In other words, &ldquo;How similar am I to Annie?&rdquo; drives how we perceive Annie, and &ldquo;How similar am I to Betsy?&rdquo; drives how we perceive Betsy, but &ldquo;How similar am I to Annie?&rdquo; does not affect our perceptions of Betsy <a href="#figure-figure-1-a-dyadic-similarity-and-b-latent-group">(Fig. 1a)</a>. Thus, sharing the same skin tone with another person may indicate in-group membership and their choices may influence our own choices. Dyadic similarity can also be found in other fields; basic spatial voting models suppose that voters select the political candidate with whom they directly agree the most. Similarly, social influence is frequently operationalized as propagating through the direct ties in large networks.</p>
+      <p>How do we learn social group boundaries and categorize others into &quot;us&quot; and &quot;them&quot;?
+Previous research relied on explicitly labeled, static groups (e.g., team membership, race, gender, etc.) and suggested that we infer others' group membership via dyadic similarity—specific, static, salient features we share directly with others.
+In other words, &ldquo;How similar am I to Annie?&rdquo; drives how we perceive Annie, and &ldquo;How similar am I to Betsy?&rdquo; drives how we perceive Betsy, but &ldquo;How similar am I to Annie?&rdquo; does not affect our perceptions of Betsy <a href="#figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference">(Fig. 1a)</a>.
+Thus, sharing the same skin tone with another person may indicate in-group membership and their choices may influence our own choices.
+Dyadic similarity can also be found in other fields; basic spatial voting models suppose that voters select the political candidate with whom they directly agree the most.
+Similarly, social influence is frequently operationalized as propagating through the direct ties in large networks.</p>
 
 
 
@@ -793,10 +798,10 @@
 
 
 
-<figure id="figure-figure-1-a-dyadic-similarity-and-b-latent-group">
+<figure id="figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference">
 
 
-  <a data-fancybox="" href="/project/grouprep/featured1_hu7d312e9a59ef580f6637b2b99a13ef57_52439_2000x2000_fit_lanczos_2.png" data-caption="Figure 1. (a) Dyadic similarity and (b) Latent group">
+  <a data-fancybox="" href="/project/grouprep/featured1_hu7d312e9a59ef580f6637b2b99a13ef57_52439_2000x2000_fit_lanczos_2.png" data-caption="Figure 1. (a) Dyadic similarity and (b) Latent group inference">
 
 
   <img data-src="/project/grouprep/featured1_hu7d312e9a59ef580f6637b2b99a13ef57_52439_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="70%" height="360">
@@ -806,15 +811,24 @@
   
   
   <figcaption>
-    Figure 1. (a) Dyadic similarity and (b) Latent group
+    Figure 1. (a) Dyadic similarity and (b) Latent group inference
   </figcaption>
 
 
 </figure>
 
-<p>In contrast, we use a generative model of Bayesian latent structure learning, in which we infer the most probable latent <em>group</em> of people. To do this, we can integrate across the relationships between everyone in addition to how each each person relates to ourselves. Asking &ldquo;How similar am I to Betsy?&rdquo; and &ldquo;How similar am I to Annie?&rdquo; <em>and</em> &ldquo;How similar are Annie and Betsy?&rdquo; drives how we perceive Annie and Betsy because they affect which latent groups (or structures) are inferred <a href="#figure-figure-1-a-dyadic-similarity-and-b-latent-group">(Fig. 1b)</a>. Someone who is inferred as an in-group member in one context may be an out-group member in another context.</p>
-<p>These <a href="/publication/2018-1/">latent groups</a> affect trait attributions made about agents and persist despite explicit group labels that contradict the latent group. Moreover, <a href="/publication/2020-1/">separate areas of the brain</a> concurrently track probabilities from the latent structure model and forms of dyadic similarity. Taken together, this suggests that the <a href="/publication/2017-1/">flexibility</a> and context-dependent nature of understanding &ldquo;us&rdquo; and &ldquo;them&rdquo; can be captured by a latent structure model. Reframing social groups as a form of latent group learning has <a href="/publication/2021-1/">implications</a> for other fields and ways in which we can decrease intergroup bias.</p>
-<p>Yet, perhaps when we actively categorize in- and out-group members, we may rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others' states, traits, and characteristics. However, we find that <a href="/publication/2017-2/">active in-group categorization</a> may instead rely on goal-oriented, domain-general networks in the brain.</p>
+<p>In contrast, we use a generative model of Bayesian latent structure learning, in which we infer the most probable latent <em>group</em> of people.
+To do this, we can integrate across the relationships between everyone in addition to how each each person relates to ourselves.
+Asking &ldquo;How similar am I to Betsy?&rdquo; and &ldquo;How similar am I to Annie?&rdquo; <em>and</em> &ldquo;How similar are Annie and Betsy?&rdquo; drives how we perceive Annie and Betsy because they affect which latent groups (or structures) are inferred <a href="#figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference">(Fig. 1b)</a>.
+Someone who is inferred as an in-group member in one context may be an out-group member in another context.</p>
+<p>These <a href="/publication/2018-1/">latent groups</a> affect trait attributions made about agents and persist despite explicit group labels that contradict the latent group.
+Moreover, <a href="/publication/2020-1/">separate areas of the brain</a> concurrently track probabilities from the latent structure model and forms of dyadic similarity.
+In forthcoming work, we adapt the model into a framework to detect latent communities in longitudinal mobility, communication, and friendship data observed from a large community.
+We find that behaviors of latent group members are on average more predictive of one&rsquo;s future behaviors compared to the behaviors of friendship ties.
+Taken together, this suggests that the <a href="/publication/2017-1/">flexibility</a> and context-dependent nature of understanding &ldquo;us&rdquo; and &ldquo;them&rdquo; can be captured by a latent structure model.
+Reframing social groups as a form of latent group learning has <a href="/publication/2021-1/">implications</a> for understanding and modelling intergroup processes, social influence, choice behavior across different fields.</p>
+<p>Yet, perhaps when we actively categorize in- and out-group members, we may rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others' states, traits, and characteristics.
+However, we find that <a href="/publication/2017-2/">active in-group categorization</a> may instead rely on goal-oriented, domain-general networks in the brain.</p>
 
     </div>
 
