@@ -79,8 +79,8 @@ Asking &amp;ldquo;How similar am I to Betsy?&amp;rdquo; and &amp;ldquo;How simil
 Someone who is inferred as an in-group member in one context may be an out-group member in another context.&lt;/p&gt;
 &lt;p&gt;These &lt;a href=&#34;https://www.tatianalau.com/publication/2018-1/&#34;&gt;latent groups&lt;/a&gt; affect trait attributions made about agents and persist despite explicit group labels that contradict the latent group.
 Moreover, &lt;a href=&#34;https://www.tatianalau.com/publication/2020-1/&#34;&gt;separate areas of the brain&lt;/a&gt; concurrently track probabilities from the latent structure model and forms of dyadic similarity.
-In forthcoming work, we adapt the model into a framework to detect latent communities in longitudinal mobility, communication, and friendship data observed from a large community.
-We find that behaviors of latent group members are on average more predictive of one&amp;rsquo;s future behaviors compared to the behaviors of friendship ties.
+In forthcoming work, we adapt the model into a scalable framework to detect latent communities in large data sets that may otherwise be undetectable given current methods.
+We illustrate the framework&amp;rsquo;s utility by applying it to longitudinal mobility, communication, and friendship data observed from a large community.
 Taken together, this suggests that the &lt;a href=&#34;https://www.tatianalau.com/publication/2017-1/&#34;&gt;flexibility&lt;/a&gt; and context-dependent nature of understanding &amp;ldquo;us&amp;rdquo; and &amp;ldquo;them&amp;rdquo; can be captured by a latent structure model.
 Reframing social groups as a form of latent group learning has &lt;a href=&#34;https://www.tatianalau.com/publication/2021-1/&#34;&gt;implications&lt;/a&gt; for understanding and modelling intergroup processes, social influence, choice behavior across different fields.&lt;/p&gt;
 &lt;p&gt;Yet, perhaps when we actively categorize in- and out-group members, we rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others&#39; states, traits, and characteristics.
