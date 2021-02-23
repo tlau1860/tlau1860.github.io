@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Reframing Social Categorization as Latent Structure Learning for Understanding Political Behaviour</title>
+      <title>Reframing social categorization as latent structure learning for understanding political behaviour</title>
       <link>https://www.tatianalau.com/publication/2021-1/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://www.tatianalau.com/publication/2021-1/</guid>
@@ -23,7 +23,7 @@
     <item>
       <title>Categorizing Across Social Groups</title>
       <link>https://www.tatianalau.com/project/grouprep/</link>
-      <pubDate>Tue, 20 Oct 2020 23:43:41 +0100</pubDate>
+      <pubDate>Wed, 20 Jan 2021 23:43:41 +0100</pubDate>
       <guid>https://www.tatianalau.com/project/grouprep/</guid>
       <description>&lt;p&gt;How do we learn social group boundaries and categorize others into &amp;quot;us&amp;quot; and &amp;quot;them&amp;quot;?
 Previous research relied on explicitly labeled, static groups (e.g., team membership, race, gender, etc.) and suggested that we infer others&#39; group membership via dyadic similarity—specific, static, salient features we share directly with others.
@@ -73,23 +73,23 @@ Similarly, social influence is frequently operationalized as propagating through
 
 &lt;/figure&gt;
 
-&lt;p&gt;In contrast, we use a generative model of Bayesian latent structure learning, in which we infer the most probable latent &lt;em&gt;group&lt;/em&gt; of people.
-To do this, we can integrate across the relationships between everyone in addition to how each each person relates to ourselves.
+&lt;p&gt;In contrast, we use a generative model of Bayesian latent structure learning, in which we glean information from the environment to infer the most probable latent &lt;em&gt;group&lt;/em&gt; of people.
+We can integrate across the relationships between everyone in addition to how each each person relates to ourselves.
 Asking &amp;ldquo;How similar am I to Betsy?&amp;rdquo; and &amp;ldquo;How similar am I to Annie?&amp;rdquo; &lt;em&gt;and&lt;/em&gt; &amp;ldquo;How similar are Annie and Betsy?&amp;rdquo; drives how we perceive Annie and Betsy because they affect which latent groups (or structures) are inferred &lt;a href=&#34;#figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference&#34;&gt;(Fig. 1b)&lt;/a&gt;.
 Someone who is inferred as an in-group member in one context may be an out-group member in another context.&lt;/p&gt;
-&lt;p&gt;These &lt;a href=&#34;https://www.tatianalau.com/publication/2018-1/&#34;&gt;latent groups&lt;/a&gt; affect trait attributions made about agents and persist despite explicit group labels that contradict the latent group.
+&lt;p&gt;These &lt;a href=&#34;https://www.tatianalau.com/publication/2018-1/&#34;&gt;latent groups&lt;/a&gt; affect trait attributions made about agents, and their effects persist despite explicit group labels that contradict the latent group.
 Moreover, &lt;a href=&#34;https://www.tatianalau.com/publication/2020-1/&#34;&gt;separate areas of the brain&lt;/a&gt; concurrently track probabilities from the latent structure model and forms of dyadic similarity.
-In forthcoming work, we adapt the model into a scalable framework to detect latent communities in large data sets that may otherwise be undetectable given current methods.
-We illustrate the framework&amp;rsquo;s utility by applying it to longitudinal mobility, communication, and friendship data observed from a large community.
+In forthcoming work, we adapt the model into a novel, scalable framework to detect latent communities in large data sets that may otherwise be undetectable given current methods.
+We illustrate the framework&amp;rsquo;s utility by applying it to longitudinal mobility, communication, and friendship data observed from a large community over a nine-month period.
 Taken together, this suggests that the &lt;a href=&#34;https://www.tatianalau.com/publication/2017-1/&#34;&gt;flexibility&lt;/a&gt; and context-dependent nature of understanding &amp;ldquo;us&amp;rdquo; and &amp;ldquo;them&amp;rdquo; can be captured by a latent structure model.
-Reframing social groups as a form of latent group learning has &lt;a href=&#34;https://www.tatianalau.com/publication/2021-1/&#34;&gt;implications&lt;/a&gt; for understanding and modelling intergroup processes, social influence, choice behavior across different fields.&lt;/p&gt;
+Reframing social groups as a form of latent group learning has &lt;a href=&#34;https://www.tatianalau.com/publication/2021-1/&#34;&gt;implications&lt;/a&gt; for understanding and modelling intergroup processes, social influence, and choice behavior across different fields.&lt;/p&gt;
 &lt;p&gt;Yet, perhaps when we actively categorize in- and out-group members, we rely on dyadic similarity, and this process may then be associated with regions of the brain commonly associated with thinking about our own and similar/close others&#39; states, traits, and characteristics.
 However, we find that &lt;a href=&#34;https://www.tatianalau.com/publication/2017-2/&#34;&gt;active in-group categorization&lt;/a&gt; may instead rely on goal-oriented, domain-general networks in the brain.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Social Structure Learning in Anterior Insula</title>
+      <title>Social structure learning in human anterior insula</title>
       <link>https://www.tatianalau.com/publication/2020-1/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://www.tatianalau.com/publication/2020-1/</guid>
@@ -106,7 +106,7 @@ However, we find that &lt;a href=&#34;https://www.tatianalau.com/publication/201
     </item>
     
     <item>
-      <title>Discovering Social Groups via Latent Structure Learning</title>
+      <title>Discovering social groups via latent structure learning</title>
       <link>https://www.tatianalau.com/publication/2018-1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://www.tatianalau.com/publication/2018-1/</guid>
@@ -114,7 +114,7 @@ However, we find that &lt;a href=&#34;https://www.tatianalau.com/publication/201
     </item>
     
     <item>
-      <title>fMRI Repetition Suppression During Generalized Social Categorization</title>
+      <title>fMRI repetition suppression during generalized social categorization</title>
       <link>https://www.tatianalau.com/publication/2017-2/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://www.tatianalau.com/publication/2017-2/</guid>
@@ -122,7 +122,7 @@ However, we find that &lt;a href=&#34;https://www.tatianalau.com/publication/201
     </item>
     
     <item>
-      <title>Decoding &#34;Us&#34; and &#34;Them&#34;: Neural Representations of Generalized Group Concepts</title>
+      <title>Decoding &#34;us&#34; and &#34;them&#34;: Neural representations of generalized group concepts</title>
       <link>https://www.tatianalau.com/publication/2017-1/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>https://www.tatianalau.com/publication/2017-1/</guid>
@@ -130,7 +130,7 @@ However, we find that &lt;a href=&#34;https://www.tatianalau.com/publication/201
     </item>
     
     <item>
-      <title>Overcorrection for Social-Categorization Information Moderates Impact Bias in Affective Forecasting</title>
+      <title>Overcorrection for social-categorization information moderates impact bias in affective forecasting</title>
       <link>https://www.tatianalau.com/publication/2016-1/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://www.tatianalau.com/publication/2016-1/</guid>
@@ -138,7 +138,7 @@ However, we find that &lt;a href=&#34;https://www.tatianalau.com/publication/201
     </item>
     
     <item>
-      <title>The Value of Victory: Social origins of the winner&#39;s curse in common value auctions</title>
+      <title>The value of victory: Social origins of the winner&#39;s curse in common value auctions</title>
       <link>https://www.tatianalau.com/publication/victoryvalue/</link>
       <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://www.tatianalau.com/publication/victoryvalue/</guid>
