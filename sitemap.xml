@@ -1,161 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.tatianalau.com/publication-type/2/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/authors/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication_types/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/2021-1/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/tatiana-lau/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/project/grouprep/</loc>
     <lastmod>2021-01-20T23:43:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/project/</loc>
     <lastmod>2021-01-20T23:43:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/mina-cikara/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/samuel-j.-gershman/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/2020-1/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/project/forecasting/</loc>
     <lastmod>2019-10-20T23:16:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/2018-1/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/h.-thomas-pouncy/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/2017-2/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/2017-1/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/jay-j.-van-bavel/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/zachary-a.-ingbretsen/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/carey-m.-morewedge/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/2016-1/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/eric-maskin/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/jian-li/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/jonathan-d.-cohen/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/p.-read-montague/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/samuel-m.-mcclure/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/publication/victoryvalue/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/author/wouter-van-den-bos/</loc>
     <lastmod>2008-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tatianalau.com/tags/</loc>
   </url>
-  
 </urlset>
