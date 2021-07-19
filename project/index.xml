@@ -50,7 +50,7 @@ Similarly, social influence is frequently operationalized as propagating through
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 1. (a) Dyadic similarity and (b) Latent group inference
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;In contrast, we use a generative model of Bayesian latent structure learning, in which we glean information from the environment to infer the most probable latent &lt;em&gt;group&lt;/em&gt; of people.
+&lt;p&gt;In contrast, we use a &lt;a href=&#34;https://github.com/tlau1860/grouprepcode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generative model&lt;/a&gt; of Bayesian latent structure learning, in which we glean information from the environment to infer the most probable latent &lt;em&gt;group&lt;/em&gt; of people.
 We can integrate across the relationships between everyone in addition to how each each person relates to ourselves.
 Asking &amp;ldquo;How similar am I to Betsy?&amp;rdquo; and &amp;ldquo;How similar am I to Annie?&amp;rdquo; &lt;em&gt;and&lt;/em&gt; &amp;ldquo;How similar are Annie and Betsy?&amp;rdquo; drives how we perceive Annie and Betsy because they affect which latent groups (or structures) are inferred &lt;a href=&#34;#figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference&#34;&gt;(Fig. 1b)&lt;/a&gt;.
 Someone who is inferred as an in-group member in one context may be an out-group member in another context.&lt;/p&gt;
