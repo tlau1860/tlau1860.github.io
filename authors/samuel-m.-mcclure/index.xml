@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel M. McClure | Tatiana Lau</title>
+    <link>https://tatianalau.com/authors/samuel-m.-mcclure/</link>
+      <atom:link href="https://tatianalau.com/authors/samuel-m.-mcclure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel M. McClure</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tatianalau.com/media/icon_hu88e4b40bbfc2b557fe3f3555fa204289_16188_512x512_fill_lanczos_center_3.png</url>
+      <title>Samuel M. McClure</title>
+      <link>https://tatianalau.com/authors/samuel-m.-mcclure/</link>
+    </image>
+    
+    <item>
+      <title>The value of victory: Social origins of the winner&#39;s curse in common value auctions</title>
+      <link>https://tatianalau.com/publication/victoryvalue/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://tatianalau.com/publication/victoryvalue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
