@@ -22,24 +22,6 @@
   <url>
     <loc>https://tatianalau.com/authors/admin/</loc><lastmod>2021-02-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tatianalau.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://tatianalau.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://tatianalau.com/authors/mina-cikara/</loc><lastmod>2020-02-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://tatianalau.com/authors/samuel-j.-gershman/</loc><lastmod>2020-02-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -76,4 +58,8 @@
   <url>
     <loc>https://tatianalau.com/publication/victoryvalue/</loc><lastmod>2008-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://tatianalau.com/authors/wouter-van-den-bos/</loc><lastmod>2008-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://tatianalau.com/authors/wouter-van-den-bos/</loc><lastmod>2008-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tatianalau.com/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://tatianalau.com/tags/</loc><changefreq>weekly</changefreq></url></urlset>
