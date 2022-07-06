@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tatiana Lau</title>
-    <link>https://tatianalau.com/</link>
-      <atom:link href="https://tatianalau.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tatiana Lau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <title>Publications | Tatiana Lau</title>
+    <link>https://tatianalau.com/publication/</link>
+      <atom:link href="https://tatianalau.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tatianalau.com/media/icon_hu88e4b40bbfc2b557fe3f3555fa204289_16188_512x512_fill_lanczos_center_3.png</url>
-      <title>Tatiana Lau</title>
-      <link>https://tatianalau.com/</link>
+      <title>Publications</title>
+      <link>https://tatianalau.com/publication/</link>
     </image>
     
     <item>
