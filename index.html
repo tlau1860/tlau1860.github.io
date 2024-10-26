@@ -272,6 +272,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114666685-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-114666685-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 <script>
@@ -889,11 +928,12 @@
     <h1>Welcome!</h1>
 
     <div class="article-style">
-      <p>I am currently a research scientist working in <a href="https://www.tri.global/our-work/human-centered-ai" target="_blank" rel="noopener">Human-Centered AI</a> at the Toyota Research Institute. This is my academic research page.</p>
-<p>I was formerly a lecturer (assistant professor) in the <a href="https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/" target="_blank" rel="noopener">Department of Psychology</a> at Royal Holloway, University of London. I received my PhD from <a href="https://psychology.fas.harvard.edu/" target="_blank" rel="noopener">Harvard University</a>, where I was also affiliated with the <a href="https://www.iq.harvard.edu/" target="_blank" rel="noopener">Institute for Quantitative Social Science</a>.</p>
-<p>We form social groups and organizations in every society, but how we come to perceive others as “us” and “them” and the consequences of these perceptions on our beliefs and behaviors are poorly understood.
+      <p>I was formerly a lecturer (assistant professor) in the <a href="https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/psychology/" target="_blank" rel="noopener">Department of Psychology</a> at Royal Holloway, University of London.
+I received my PhD from <a href="https://psychology.fas.harvard.edu/" target="_blank" rel="noopener">Harvard University</a>, where I was also affiliated with the <a href="https://www.iq.harvard.edu/" target="_blank" rel="noopener">Institute for Quantitative Social Science</a>.</p>
+<p>My academic research focused on intergroup processes.
+We form social groups and organizations in every society, but how we come to perceive others as “us” and “them” and the consequences of these perceptions on our beliefs and behaviors are poorly understood.
 My research seeks to refine existing theories on the inferences and consequences of social group memberships.
-Across my research, I have employed computational models and large observational datasets and used functional neuroimaging (fMRI), in-lab, field, and online experiments.</p>
+Across my research, I employed computational models and large observational datasets and used functional neuroimaging (fMRI), in-lab, field, and online experiments.</p>
 
     </div>
 
@@ -925,14 +965,6 @@ Across my research, I have employed computational models and large observational
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">Ph.D. in Experimental Psychology</p>
-              <p class="institution">Harvard University</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">A.M. in Experimental Psychology</p>
               <p class="institution">Harvard University</p>
             </div>
           </li>
@@ -1121,12 +1153,6 @@ Across my research, I have employed computational models and large observational
   <div class="ml-3">
     
     
-    
-    <a href="/project/grouprep/" >
-      <img src="/project/grouprep/featured_hu676d3d91164ba2360849b7acb6365e57_40913_150x0_resize_q75_h2_lanczos_3.webp" height="249" width="150"
-           alt="Categorizing Across Social Groups" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -1182,12 +1208,6 @@ Across my research, I have employed computational models and large observational
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/project/forecasting/" >
-      <img src="/project/forecasting/featured_hua8c900122e9ac15dc5c2dcc9ce4b512c_944978_150x0_resize_q75_h2_lanczos_3.webp" height="212" width="150"
-           alt="Social Category Information Biases Affective Forecasts" loading="lazy">
-    </a>
     
   </div>
 </div>
@@ -1517,14 +1537,6 @@ Across my research, I have employed computational models and large observational
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=5pQM9Z4_JFI" target="_blank" rel="noopener">
-  Video
-</a>
-
 
 
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.7554/eLife.53162" target="_blank" rel="noopener">
@@ -1790,7 +1802,7 @@ Across my research, I have employed computational models and large observational
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2024 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 

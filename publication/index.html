@@ -248,6 +248,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114666685-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-114666685-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 <script>
@@ -930,14 +969,6 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=5pQM9Z4_JFI" target="_blank" rel="noopener">
-  Video
-</a>
-
 
 
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.7554/eLife.53162" target="_blank" rel="noopener">
@@ -1532,7 +1563,7 @@
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2024 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 

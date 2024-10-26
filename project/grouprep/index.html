@@ -248,6 +248,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114666685-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-114666685-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 <script>
@@ -294,6 +333,7 @@
   
   
     
+    
   
   
 
@@ -302,13 +342,13 @@
     
     
   
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Tatiana Lau" />
   <meta property="og:url" content="https://tatianalau.com/project/grouprep/" />
   <meta property="og:title" content="Categorizing Across Social Groups | Tatiana Lau" />
-  <meta property="og:description" content="In light of diversifying societies, how do we learn social group boundaries and categorize others into \&#34;us\&#34; and \&#34;them\&#34;? Previous research relied on explicitly labelled, static groups (e.g., team membership, race, etc.) and suggested that group memberships can be inferred via dyadic similarity; similarity on a salient feature drives our understanding of \&#34;us\&#34; and \&#34;them\&#34;. In contrast, this line of research suggests that the context-dependent and flexible natures of our abilities to categorize others can be more comprehensively captured in a model of latent structure learning." /><meta property="og:image" content="https://tatianalau.com/project/grouprep/featured.png" />
-    <meta property="twitter:image" content="https://tatianalau.com/project/grouprep/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="In light of diversifying societies, how do we learn social group boundaries and categorize others into \&#34;us\&#34; and \&#34;them\&#34;? Previous research relied on explicitly labelled, static groups (e.g., team membership, race, etc.) and suggested that group memberships can be inferred via dyadic similarity; similarity on a salient feature drives our understanding of \&#34;us\&#34; and \&#34;them\&#34;. In contrast, this line of research suggests that the context-dependent and flexible natures of our abilities to categorize others can be more comprehensively captured in a model of latent structure learning." /><meta property="og:image" content="https://tatianalau.com/media/icon_hu88e4b40bbfc2b557fe3f3555fa204289_16188_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://tatianalau.com/media/icon_hu88e4b40bbfc2b557fe3f3555fa204289_16188_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -341,10 +381,6 @@
     "@id": "https://tatianalau.com/project/grouprep/"
   },
   "headline": "Categorizing Across Social Groups",
-  
-  "image": [
-    "https://tatianalau.com/project/grouprep/featured.png"
-  ],
   
   "datePublished": "2021-04-27T00:00:00Z",
   "dateModified": "2021-04-27T00:00:00Z",
@@ -788,14 +824,7 @@ Similarly, social influence is frequently operationalized as propagating through
 
 <figure  id="figure-figure-1-a-dyadic-similarity-and-b-latent-group-inference">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="Figure 1. (a) Dyadic similarity and (b) Latent group inference" srcset="
-               /project/grouprep/featured1_hu7d312e9a59ef580f6637b2b99a13ef57_52439_80d578c66d936da5673f6feb27290152.webp 400w,
-               /project/grouprep/featured1_hu7d312e9a59ef580f6637b2b99a13ef57_52439_3174b5259153769157d2540ac1c21d2d.webp 760w,
-               /project/grouprep/featured1_hu7d312e9a59ef580f6637b2b99a13ef57_52439_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-               src="/project/grouprep/featured1_hu7d312e9a59ef580f6637b2b99a13ef57_52439_80d578c66d936da5673f6feb27290152.webp"
-               width="70%"
-               height="280"
-               loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img src="featured1.png" alt="Figure 1. (a) Dyadic similarity and (b) Latent group inference" loading="lazy" data-zoomable width="70%" /></div>
   </div><figcaption>
       Figure 1. (a) Dyadic similarity and (b) Latent group inference
     </figcaption></figure>
@@ -1176,14 +1205,6 @@ However, we find that <a href="/publication/2017-2/">active in-group categorizat
 </a>
 
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=5pQM9Z4_JFI" target="_blank" rel="noopener">
-  Video
-</a>
 
 
 
@@ -1689,7 +1710,7 @@ However, we find that <a href="/publication/2017-2/">active in-group categorizat
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2024 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 

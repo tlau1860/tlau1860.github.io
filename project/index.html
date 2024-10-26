@@ -248,6 +248,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114666685-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-114666685-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 <script>
@@ -726,12 +765,6 @@
   <div class="ml-3">
     
     
-    
-    <a href="/project/grouprep/" >
-      <img src="/project/grouprep/featured_hu676d3d91164ba2360849b7acb6365e57_40913_150x0_resize_q75_h2_lanczos_3.webp" height="249" width="150"
-           alt="Categorizing Across Social Groups" loading="lazy">
-    </a>
-    
   </div>
 </div>
 
@@ -782,12 +815,6 @@
   </div>
   <div class="ml-3">
     
-    
-    
-    <a href="/project/forecasting/" >
-      <img src="/project/forecasting/featured_hua8c900122e9ac15dc5c2dcc9ce4b512c_944978_150x0_resize_q75_h2_lanczos_3.webp" height="212" width="150"
-           alt="Social Category Information Biases Affective Forecasts" loading="lazy">
-    </a>
     
   </div>
 </div>
@@ -848,7 +875,7 @@
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2024 Tatiana Lau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
